@@ -1,3 +1,7 @@
+> Repository fork to make package wheel support python 3.9+ for PEP-621 (package metadata)
+
+todo: add tests
+
 # seqeval
 
 seqeval is a Python framework for sequence labeling evaluation.
